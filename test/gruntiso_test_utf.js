@@ -28,7 +28,7 @@ exports['awesome'] = {
   'no args': function(test) {
     test.expect(1);
     // tests here
-    test.equal(gruntiso.awesome(), 'ação é isso aí', 'should be awesome.');
+    test.equal(gruntiso.awesome(), 'aÃ§Ã£o Ã© isso aÃ­', 'should be awesome.');
     test.done();
   }
 };

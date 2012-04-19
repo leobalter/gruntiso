@@ -4,7 +4,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: '<json:package.json>',
 		meta: {
-			banner: "/* Ação é isso aí */"
+			banner: "/* AÃ§Ã£o Ã© isso aÃ­ */"
 		},
 		concat: {
 			def: {
