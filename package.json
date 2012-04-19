@@ -1,0 +1,35 @@
+{
+  "name": "gruntiso",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/leobalter/gruntiso",
+  "author": {
+    "name": "Leonardo Balter",
+    "email": "leonardo.balter@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leobalter/gruntiso.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leobalter/gruntiso/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/leobalter/gruntiso/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/gruntiso",
+  "engines": {
+    "node": "~0.6.14"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.3.9"
+  },
+  "keywords": []
+}
